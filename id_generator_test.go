@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/free5gc/idgenerator"
+	"github.com/omec-project/idgenerator"
 )
 
 func TestAllocate(t *testing.T) {
